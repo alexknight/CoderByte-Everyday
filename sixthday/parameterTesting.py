@@ -12,3 +12,13 @@ def LetterCapitalize(str):
 		new_list.append(elem)
 	return ' '.join(new_list)
 print LetterCapitalize(raw_input('input the sentence.\n'))
+
+
+
+
+
+
+
+
+
+
