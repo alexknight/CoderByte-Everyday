@@ -6,6 +6,6 @@ feature in the box below to test your code with different arguments.
 
 def SimpleAdding(num):
 	num=int(num)
-	return sum(range(1,num))
+	return sum(range(1,num+1))
 
 print SimpleAdding(raw_input('Pls input the number:\n'))
